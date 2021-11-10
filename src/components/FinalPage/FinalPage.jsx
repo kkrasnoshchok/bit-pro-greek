@@ -20,7 +20,7 @@ export default function FinalPage(props) {
           </p>
         </div>
         <div className="finalLink">
-          <a href="https://domfir.xyz/yfnLpB" target="_blank" rel="noreferrer">
+          <a href="https://domfir.xyz/WS79TY" target="_blank" rel="noreferrer">
             <p>Μεταβείτε στην εγγραφή λογαριασμού σας.</p>
             <IoIosArrowForward className="arrowIconFinal" />
           </a>
